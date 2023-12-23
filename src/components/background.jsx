@@ -1,4 +1,4 @@
-import frame from "../assets/frame 4.svg";
+import frame from "../assets/Frame.svg";
 import img from "../assets/background-pattern-mobile.svg";
 const BackGround = () => {
   return (

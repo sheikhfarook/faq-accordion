@@ -8,7 +8,6 @@ import {
 } from "@chakra-ui/react";
 import { FaMinusCircle } from "react-icons/fa";
 import { IoIosAddCircle } from "react-icons/io";
-// import App from "./../App";
 
 const Fags = () => {
   return (
